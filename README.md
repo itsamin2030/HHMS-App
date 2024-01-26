@@ -1,6 +1,6 @@
 # HHMS
 
-A new Flutter project.
+Check https://github.com/itsamin2030/HHMS
 
 ## Getting Started
 
